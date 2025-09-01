@@ -78,7 +78,6 @@ const chatscreen = ({ currentUser, selectedUser, socket }: Props) => {
               >
                 Send
               </button>
-        
           </div>
         </form>
       </div>
